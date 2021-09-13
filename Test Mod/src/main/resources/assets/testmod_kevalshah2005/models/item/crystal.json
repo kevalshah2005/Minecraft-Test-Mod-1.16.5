@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "testmod_kevalshah2005:items/crystal"
+    }
+}

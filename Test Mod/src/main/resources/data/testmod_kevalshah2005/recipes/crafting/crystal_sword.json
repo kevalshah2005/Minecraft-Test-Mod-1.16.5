@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        " # ",
+        " g "
+    ],
+    "key": {
+        "#": {
+            "item": "testmod_kevalshah2005:crystal"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "item": "testmod_kevalshah2005:crystal_sword",
+        "count": 1
+    }
+}f

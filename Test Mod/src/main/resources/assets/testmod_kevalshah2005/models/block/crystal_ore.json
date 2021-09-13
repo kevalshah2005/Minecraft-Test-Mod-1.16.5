@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "testmod_kevalshah2005:blocks/crystal_ore"
+    }
+}

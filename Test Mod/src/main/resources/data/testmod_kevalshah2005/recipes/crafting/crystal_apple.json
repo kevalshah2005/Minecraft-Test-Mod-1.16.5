@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#G#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "testmod_kevalshah2005:crystal"
+        },
+        "G": {
+            "item": "minecraft:golden_apple"
+        }
+    },
+    "result": {
+        "item": "testmod_kevalshah2005:crystal_apple",
+        "count": 1
+    }
+}
